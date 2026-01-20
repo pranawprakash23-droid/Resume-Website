@@ -6,7 +6,7 @@ import { Gallery } from './components/Gallery';
 import { Stack } from './components/Stack';
 import { Footer } from './components/Footer';
 import { ImageCropper } from './components/ui/ImageCropper';
-import { Sidebar } from './components/Sidebar'; // Ensure Sidebar is imported if used directly or passed down
+import { Sidebar } from './components/Sidebar';
 
 function App() {
   // State for profile image management
